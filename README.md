@@ -17,8 +17,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/4NK3R-PRODUCT1ON/bot-wea-v2
-> cd bot-wea-v2
+> git clone https://github.com/4NK3R-PRODUCT1ON/bot-whatsapp
+> cd bot-whatsapp
 > npm cache clear
 > bash install.sh
 > npm audit fix
