@@ -34,7 +34,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 │➻ *${prefix}blocklist*
 │➻ *${prefix}banlist*
 │➻ *${prefix}premiumlist*
-│➻ *${prefix}bahasa*
+│➻ *${prefilanguages*
 ┬
 ╰────────────────────────
 
